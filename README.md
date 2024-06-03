@@ -81,8 +81,8 @@
                     <li><a href="#game 1">Game hành động</a></li>
                     <li><a href="#game 2">Game vui nhộn</a></li>
                     <li><a href="#game 3">Game bắn súng</a></li>
-					<li><a href="#game 4">Game bóng đá</a></li>
-					<li><a href="#game 5">Game đố vui</a></li>
+		    <li><a href="#game 4">Game bóng đá</a></li>
+		    <li><a href="#game 5">Game đố vui</a></li>
                 </ul>
             </nav>
         </div>
