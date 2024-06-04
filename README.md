@@ -71,7 +71,7 @@
     </style>
 </head>
 <body>
-    <header>
+    
         <div class="container">
             <div id="branding">
                 <h1>Review Game</h1>
@@ -86,7 +86,7 @@
                 </ul>
             </nav>
         </div>
-    </header>
+    
 
     <div class="container">
         <div class="content">
